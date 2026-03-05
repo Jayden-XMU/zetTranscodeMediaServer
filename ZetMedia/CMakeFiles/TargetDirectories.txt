@@ -1,0 +1,4 @@
+/home/jayden/Player-dev/ZetMedia/CMakeFiles/rebuild_cache.dir
+/home/jayden/Player-dev/ZetMedia/CMakeFiles/edit_cache.dir
+/home/jayden/Player-dev/ZetMedia/CMakeFiles/ZetMedia.dir
+/home/jayden/Player-dev/ZetMedia/CMakeFiles/zetMediaServer.dir

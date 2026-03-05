@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/zetMediaServer.dir/zetMediaServer.cpp.o  -o zetMediaServer -Wl,-rpath,/home/jayden/Player-dev/ZetMedia libZetMedia.so 
